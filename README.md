@@ -45,7 +45,7 @@ If you need to modify Zookeeper configurations or change the exposed port, you c
 pip install -r requirements.txt
 ```
 
-2. Initialize the KafkaAdminClient and create the necessary topics.
+2. Initialize the KafkaAdminClient and create the necessary topics:
 
 ```bash
 python kafka-admin.py
